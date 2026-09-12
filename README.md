@@ -1,7 +1,8 @@
-# Pruebas de aplicaciones móviles en una app | Bootcamp Tripleten (2026)
+Pruebas de aplicaciones móviles en una app | Bootcamp Tripleten (2026)
 
 ## 1. Nombre del proyecto:
-Proyecto Urban Lunch.
+
+#Proyecto Urban Lunch.
 
 ## 2. Descripción del proyecto:
 En este proyecto se está probando el análisis de requisitos, creación de lista de comprobación de la app, y pruebas de la app.
